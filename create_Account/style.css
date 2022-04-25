@@ -85,6 +85,9 @@ nav.nav-bar{
     
    
 }
+nav.nav-bar a{
+    text-decoration: none;
+}
  nav.nav-bar div.logo{
 color: white;
 font-weight: bold;
@@ -304,6 +307,9 @@ footer.footer .footerAddress .logo {
     align-items: flex-start;
     cursor: pointer;
     
+}
+footer.footer a{
+    text-decoration: none;
 }
 footer.footer .footerContact{
     display: flex;
